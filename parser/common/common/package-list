@@ -1,0 +1,72 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.aac.parser.common.aggregator////PointingToDeclaration/common/com.aac.parser.common.aggregator/index.html
+$dokka.location:com.aac.parser.common.aggregator/Aggregator///PointingToDeclaration/common/com.aac.parser.common.aggregator/-aggregator/index.html
+$dokka.location:com.aac.parser.common.aggregator/Aggregator/aggregate/#/PointingToDeclaration/common/com.aac.parser.common.aggregator/-aggregator/aggregate.html
+$dokka.location:com.aac.parser.common.aggregator/ParserAggregator.Companion///PointingToDeclaration/common/com.aac.parser.common.aggregator/-parser-aggregator/-companion/index.html
+$dokka.location:com.aac.parser.common.aggregator/ParserAggregator.Companion/logger/#/PointingToDeclaration/common/com.aac.parser.common.aggregator/-parser-aggregator/-companion/logger.html
+$dokka.location:com.aac.parser.common.aggregator/ParserAggregator///PointingToDeclaration/common/com.aac.parser.common.aggregator/-parser-aggregator/index.html
+$dokka.location:com.aac.parser.common.aggregator/ParserAggregator/ParserAggregator/#/PointingToDeclaration/common/com.aac.parser.common.aggregator/-parser-aggregator/-parser-aggregator.html
+$dokka.location:com.aac.parser.common.client////PointingToDeclaration/common/com.aac.parser.common.client/index.html
+$dokka.location:com.aac.parser.common.client/ParserClient.Companion///PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/-companion/index.html
+$dokka.location:com.aac.parser.common.client/ParserClient.Companion/logger/#/PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/-companion/logger.html
+$dokka.location:com.aac.parser.common.client/ParserClient///PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/index.html
+$dokka.location:com.aac.parser.common.client/ParserClient/ParserClient/#/PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/-parser-client.html
+$dokka.location:com.aac.parser.common.client/ParserClient/client/#/PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/client.html
+$dokka.location:com.aac.parser.common.client/ParserClient/setupClient/io.ktor.client.HttpClientConfig[io.ktor.client.engine.cio.CIOEngineConfig]#/PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/setup-client.html
+$dokka.location:com.aac.parser.common.client/ParserClient/setupGson/com.google.gson.GsonBuilder#/PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/setup-gson.html
+$dokka.location:com.aac.parser.common.exporter////PointingToDeclaration/common/com.aac.parser.common.exporter/index.html
+$dokka.location:com.aac.parser.common.exporter/AzureBlobExporter///PointingToDeclaration/common/com.aac.parser.common.exporter/-azure-blob-exporter/index.html
+$dokka.location:com.aac.parser.common.exporter/AzureBlobExporter/AzureBlobExporter/#/PointingToDeclaration/common/com.aac.parser.common.exporter/-azure-blob-exporter/-azure-blob-exporter.html
+$dokka.location:com.aac.parser.common.exporter/AzureBlobExporter/export/#kotlin.String#kotlin.collections.List[com.aac.parser.common.model.Car]/PointingToDeclaration/common/com.aac.parser.common.exporter/-azure-blob-exporter/export.html
+$dokka.location:com.aac.parser.common.exporter/Exporter///PointingToDeclaration/common/com.aac.parser.common.exporter/-exporter/index.html
+$dokka.location:com.aac.parser.common.exporter/Exporter/export/#kotlin.String#kotlin.collections.List[com.aac.parser.common.model.Car]/PointingToDeclaration/common/com.aac.parser.common.exporter/-exporter/export.html
+$dokka.location:com.aac.parser.common.extentions////PointingToDeclaration/common/com.aac.parser.common.extentions/index.html
+$dokka.location:com.aac.parser.common.extentions//AggregatorLogger/#/PointingToDeclaration/common/com.aac.parser.common.extentions/-aggregator-logger.html
+$dokka.location:com.aac.parser.common.extentions//ClientLogger/#/PointingToDeclaration/common/com.aac.parser.common.extentions/-client-logger.html
+$dokka.location:com.aac.parser.common.extentions//ExporterLogger/#/PointingToDeclaration/common/com.aac.parser.common.extentions/-exporter-logger.html
+$dokka.location:com.aac.parser.common.extentions//configureLogger/#/PointingToDeclaration/common/com.aac.parser.common.extentions/configure-logger.html
+$dokka.location:com.aac.parser.common.extentions//splitToMap/com.typesafe.config.Config#kotlin.String/PointingToDeclaration/common/com.aac.parser.common.extentions/split-to-map.html
+$dokka.location:com.aac.parser.common.model////PointingToDeclaration/common/com.aac.parser.common.model/index.html
+$dokka.location:com.aac.parser.common.model/Car///PointingToDeclaration/common/com.aac.parser.common.model/-car/index.html
+$dokka.location:com.aac.parser.common.model/Car/Car/#kotlin.String#kotlin.collections.List[com.aac.parser.common.model.Model]/PointingToDeclaration/common/com.aac.parser.common.model/-car/-car.html
+$dokka.location:com.aac.parser.common.model/Car/code/#/PointingToDeclaration/common/com.aac.parser.common.model/-car/code.html
+$dokka.location:com.aac.parser.common.model/Car/models/#/PointingToDeclaration/common/com.aac.parser.common.model/-car/models.html
+$dokka.location:com.aac.parser.common.model/Configuration///PointingToDeclaration/common/com.aac.parser.common.model/-configuration/index.html
+$dokka.location:com.aac.parser.common.model/Configuration/Configuration/#kotlin.collections.List[com.aac.parser.common.model.Option]#kotlin.collections.List[com.aac.parser.common.model.Option]#kotlin.Double/PointingToDeclaration/common/com.aac.parser.common.model/-configuration/-configuration.html
+$dokka.location:com.aac.parser.common.model/Configuration/allOptions/#/PointingToDeclaration/common/com.aac.parser.common.model/-configuration/all-options.html
+$dokka.location:com.aac.parser.common.model/Configuration/includeOptions/#/PointingToDeclaration/common/com.aac.parser.common.model/-configuration/include-options.html
+$dokka.location:com.aac.parser.common.model/Configuration/price/#/PointingToDeclaration/common/com.aac.parser.common.model/-configuration/price.html
+$dokka.location:com.aac.parser.common.model/Model///PointingToDeclaration/common/com.aac.parser.common.model/-model/index.html
+$dokka.location:com.aac.parser.common.model/Model/Model/#kotlin.String#kotlin.String#kotlin.String#kotlin.collections.List[com.aac.parser.common.model.Configuration]/PointingToDeclaration/common/com.aac.parser.common.model/-model/-model.html
+$dokka.location:com.aac.parser.common.model/Model/code/#/PointingToDeclaration/common/com.aac.parser.common.model/-model/code.html
+$dokka.location:com.aac.parser.common.model/Model/configurations/#/PointingToDeclaration/common/com.aac.parser.common.model/-model/configurations.html
+$dokka.location:com.aac.parser.common.model/Model/description/#/PointingToDeclaration/common/com.aac.parser.common.model/-model/description.html
+$dokka.location:com.aac.parser.common.model/Model/name/#/PointingToDeclaration/common/com.aac.parser.common.model/-model/name.html
+$dokka.location:com.aac.parser.common.model/Option///PointingToDeclaration/common/com.aac.parser.common.model/-option/index.html
+$dokka.location:com.aac.parser.common.model/Option/Option/#kotlin.String#com.aac.parser.common.model.OptionType#kotlin.String#kotlin.String#kotlin.Boolean#kotlin.collections.List[kotlin.collections.List[kotlin.String]]#kotlin.Double#kotlin.collections.Map[kotlin.String,kotlin.Double]/PointingToDeclaration/common/com.aac.parser.common.model/-option/-option.html
+$dokka.location:com.aac.parser.common.model/Option/code/#/PointingToDeclaration/common/com.aac.parser.common.model/-option/code.html
+$dokka.location:com.aac.parser.common.model/Option/description/#/PointingToDeclaration/common/com.aac.parser.common.model/-option/description.html
+$dokka.location:com.aac.parser.common.model/Option/includedOptionCombinations/#/PointingToDeclaration/common/com.aac.parser.common.model/-option/included-option-combinations.html
+$dokka.location:com.aac.parser.common.model/Option/onlyAsPackageComponent/#/PointingToDeclaration/common/com.aac.parser.common.model/-option/only-as-package-component.html
+$dokka.location:com.aac.parser.common.model/Option/packagesPrices/#/PointingToDeclaration/common/com.aac.parser.common.model/-option/packages-prices.html
+$dokka.location:com.aac.parser.common.model/Option/separatePrice/#/PointingToDeclaration/common/com.aac.parser.common.model/-option/separate-price.html
+$dokka.location:com.aac.parser.common.model/Option/title/#/PointingToDeclaration/common/com.aac.parser.common.model/-option/title.html
+$dokka.location:com.aac.parser.common.model/Option/type/#/PointingToDeclaration/common/com.aac.parser.common.model/-option/type.html
+$dokka.location:com.aac.parser.common.model/OptionType.Other///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}common/com.aac.parser.common.model/-option-type/-other/index.html
+$dokka.location:com.aac.parser.common.model/OptionType.Package///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}common/com.aac.parser.common.model/-option-type/-package/index.html
+$dokka.location:com.aac.parser.common.model/OptionType///PointingToDeclaration/common/com.aac.parser.common.model/-option-type/index.html
+$dokka.location:com.aac.parser.common.model/OptionType/valueOf/#kotlin.String/PointingToDeclaration/common/com.aac.parser.common.model/-option-type/value-of.html
+$dokka.location:com.aac.parser.common.model/OptionType/values/#/PointingToDeclaration/common/com.aac.parser.common.model/-option-type/values.html
+$dokka.location:com.aac.parser.common////PointingToDeclaration/common/com.aac.parser.common/index.html
+$dokka.location:com.aac.parser.common//startUp/#kotlin.collections.MutableList[org.koin.core.module.Module]/PointingToDeclaration/common/com.aac.parser.common/start-up.html
+$dokka.location:com.aac.parser.common/Parser///PointingToDeclaration/common/com.aac.parser.common/-parser/index.html
+$dokka.location:com.aac.parser.common/Parser/Parser/#/PointingToDeclaration/common/com.aac.parser.common/-parser/-parser.html
+$dokka.location:com.aac.parser.common/Parser/parse/#kotlin.String/PointingToDeclaration/common/com.aac.parser.common/-parser/parse.html
+com.aac.parser.common
+com.aac.parser.common.aggregator
+com.aac.parser.common.client
+com.aac.parser.common.exporter
+com.aac.parser.common.extentions
+com.aac.parser.common.model
+

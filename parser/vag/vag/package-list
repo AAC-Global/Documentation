@@ -1,0 +1,78 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.aac.parser.vag.aggregator////PointingToDeclaration/vag/com.aac.parser.vag.aggregator/index.html
+$dokka.location:com.aac.parser.vag.aggregator/VagAggregator///PointingToDeclaration/vag/com.aac.parser.vag.aggregator/-vag-aggregator/index.html
+$dokka.location:com.aac.parser.vag.aggregator/VagAggregator/VagAggregator/#/PointingToDeclaration/vag/com.aac.parser.vag.aggregator/-vag-aggregator/-vag-aggregator.html
+$dokka.location:com.aac.parser.vag.aggregator/VagAggregator/aggregate/#/PointingToDeclaration/vag/com.aac.parser.vag.aggregator/-vag-aggregator/aggregate.html
+$dokka.location:com.aac.parser.vag.client////PointingToDeclaration/vag/com.aac.parser.vag.client/index.html
+$dokka.location:com.aac.parser.vag.client/Client///PointingToDeclaration/vag/com.aac.parser.vag.client/-client/index.html
+$dokka.location:com.aac.parser.vag.client/Client/getAllCars/#kotlin.String/PointingToDeclaration/vag/com.aac.parser.vag.client/-client/get-all-cars.html
+$dokka.location:com.aac.parser.vag.client/Client/getLines/#kotlin.String#kotlin.String/PointingToDeclaration/vag/com.aac.parser.vag.client/-client/get-lines.html
+$dokka.location:com.aac.parser.vag.client/Client/getModelInfo/#kotlin.String#com.aac.parser.vag.model.Line/PointingToDeclaration/vag/com.aac.parser.vag.client/-client/get-model-info.html
+$dokka.location:com.aac.parser.vag.client/Manufacture.Audi///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}vag/com.aac.parser.vag.client/-manufacture/-audi/index.html
+$dokka.location:com.aac.parser.vag.client/Manufacture.Seat///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}vag/com.aac.parser.vag.client/-manufacture/-seat/index.html
+$dokka.location:com.aac.parser.vag.client/Manufacture.Skoda///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}vag/com.aac.parser.vag.client/-manufacture/-skoda/index.html
+$dokka.location:com.aac.parser.vag.client/Manufacture.Volkswagen///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}vag/com.aac.parser.vag.client/-manufacture/-volkswagen/index.html
+$dokka.location:com.aac.parser.vag.client/Manufacture///PointingToDeclaration/vag/com.aac.parser.vag.client/-manufacture/index.html
+$dokka.location:com.aac.parser.vag.client/Manufacture/valueOf/#kotlin.String/PointingToDeclaration/vag/com.aac.parser.vag.client/-manufacture/value-of.html
+$dokka.location:com.aac.parser.vag.client/Manufacture/values/#/PointingToDeclaration/vag/com.aac.parser.vag.client/-manufacture/values.html
+$dokka.location:com.aac.parser.vag.client/VagClient///PointingToDeclaration/vag/com.aac.parser.vag.client/-vag-client/index.html
+$dokka.location:com.aac.parser.vag.client/VagClient/VagClient/#com.aac.parser.vag.client.Manufacture/PointingToDeclaration/vag/com.aac.parser.vag.client/-vag-client/-vag-client.html
+$dokka.location:com.aac.parser.vag.client/VagClient/getAllCars/#kotlin.String/PointingToDeclaration/vag/com.aac.parser.vag.client/-vag-client/get-all-cars.html
+$dokka.location:com.aac.parser.vag.client/VagClient/getLines/#kotlin.String#kotlin.String/PointingToDeclaration/vag/com.aac.parser.vag.client/-vag-client/get-lines.html
+$dokka.location:com.aac.parser.vag.client/VagClient/getModelInfo/#kotlin.String#com.aac.parser.vag.model.Line/PointingToDeclaration/vag/com.aac.parser.vag.client/-vag-client/get-model-info.html
+$dokka.location:com.aac.parser.vag.mapper////PointingToDeclaration/vag/com.aac.parser.vag.mapper/index.html
+$dokka.location:com.aac.parser.vag.mapper/Mapper///PointingToDeclaration/vag/com.aac.parser.vag.mapper/-mapper/index.html
+$dokka.location:com.aac.parser.vag.mapper/Mapper/mapToCanonical/#kotlin.collections.List[com.aac.parser.vag.model.Model]/PointingToDeclaration/vag/com.aac.parser.vag.mapper/-mapper/map-to-canonical.html
+$dokka.location:com.aac.parser.vag.mapper/VagCanonicalMapper///PointingToDeclaration/vag/com.aac.parser.vag.mapper/-vag-canonical-mapper/index.html
+$dokka.location:com.aac.parser.vag.mapper/VagCanonicalMapper/VagCanonicalMapper/#/PointingToDeclaration/vag/com.aac.parser.vag.mapper/-vag-canonical-mapper/-vag-canonical-mapper.html
+$dokka.location:com.aac.parser.vag.mapper/VagCanonicalMapper/mapToCanonical/#kotlin.collections.List[com.aac.parser.vag.model.Model]/PointingToDeclaration/vag/com.aac.parser.vag.mapper/-vag-canonical-mapper/map-to-canonical.html
+$dokka.location:com.aac.parser.vag.model////PointingToDeclaration/vag/com.aac.parser.vag.model/index.html
+$dokka.location:com.aac.parser.vag.model/Equipment///PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/index.html
+$dokka.location:com.aac.parser.vag.model/Equipment/Equipment/#kotlin.String#kotlin.Boolean#com.aac.parser.vag.model.Preis#com.aac.parser.vag.model.Regeln#kotlin.String/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/-equipment.html
+$dokka.location:com.aac.parser.vag.model/Equipment/code/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/code.html
+$dokka.location:com.aac.parser.vag.model/Equipment/isPackage/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/is-package.html
+$dokka.location:com.aac.parser.vag.model/Equipment/preis/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/preis.html
+$dokka.location:com.aac.parser.vag.model/Equipment/regeln/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/regeln.html
+$dokka.location:com.aac.parser.vag.model/Equipment/title/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/title.html
+$dokka.location:com.aac.parser.vag.model/Group///PointingToDeclaration/vag/com.aac.parser.vag.model/-group/index.html
+$dokka.location:com.aac.parser.vag.model/Group/Group/#kotlin.String#kotlin.collections.List[com.aac.parser.vag.model.Line]?#kotlin.String/PointingToDeclaration/vag/com.aac.parser.vag.model/-group/-group.html
+$dokka.location:com.aac.parser.vag.model/Group/code/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-group/code.html
+$dokka.location:com.aac.parser.vag.model/Group/exampleConfigurations/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-group/example-configurations.html
+$dokka.location:com.aac.parser.vag.model/Group/name/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-group/name.html
+$dokka.location:com.aac.parser.vag.model/Line///PointingToDeclaration/vag/com.aac.parser.vag.model/-line/index.html
+$dokka.location:com.aac.parser.vag.model/Line/Line/#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/vag/com.aac.parser.vag.model/-line/-line.html
+$dokka.location:com.aac.parser.vag.model/Line/accessoryCodes/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-line/accessory-codes.html
+$dokka.location:com.aac.parser.vag.model/Line/colourCode/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-line/colour-code.html
+$dokka.location:com.aac.parser.vag.model/Line/equipmentCodes/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-line/equipment-codes.html
+$dokka.location:com.aac.parser.vag.model/Line/interiorCode/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-line/interior-code.html
+$dokka.location:com.aac.parser.vag.model/Line/modelCode/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-line/model-code.html
+$dokka.location:com.aac.parser.vag.model/Model///PointingToDeclaration/vag/com.aac.parser.vag.model/-model/index.html
+$dokka.location:com.aac.parser.vag.model/Model/Model/#kotlin.collections.List[com.aac.parser.vag.model.Equipment]#kotlin.String#kotlin.String#kotlin.String#com.aac.parser.vag.model.Price#kotlin.collections.List[com.aac.parser.vag.model.Equipment]/PointingToDeclaration/vag/com.aac.parser.vag.model/-model/-model.html
+$dokka.location:com.aac.parser.vag.model/Model/availableEquipments/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-model/available-equipments.html
+$dokka.location:com.aac.parser.vag.model/Model/modelGroupName/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-model/model-group-name.html
+$dokka.location:com.aac.parser.vag.model/Model/modelVariantName/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-model/model-variant-name.html
+$dokka.location:com.aac.parser.vag.model/Model/name/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-model/name.html
+$dokka.location:com.aac.parser.vag.model/Model/price/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-model/price.html
+$dokka.location:com.aac.parser.vag.model/Model/selectedEquipments/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-model/selected-equipments.html
+$dokka.location:com.aac.parser.vag.model/ModelsResponse///PointingToDeclaration/vag/com.aac.parser.vag.model/-models-response/index.html
+$dokka.location:com.aac.parser.vag.model/ModelsResponse/ModelsResponse/#kotlin.collections.List[com.aac.parser.vag.model.Group]/PointingToDeclaration/vag/com.aac.parser.vag.model/-models-response/-models-response.html
+$dokka.location:com.aac.parser.vag.model/ModelsResponse/modelGroups/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-models-response/model-groups.html
+$dokka.location:com.aac.parser.vag.model/Preis///PointingToDeclaration/vag/com.aac.parser.vag.model/-preis/index.html
+$dokka.location:com.aac.parser.vag.model/Preis/Preis/#kotlin.Double/PointingToDeclaration/vag/com.aac.parser.vag.model/-preis/-preis.html
+$dokka.location:com.aac.parser.vag.model/Preis/brutto/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-preis/brutto.html
+$dokka.location:com.aac.parser.vag.model/Price///PointingToDeclaration/vag/com.aac.parser.vag.model/-price/index.html
+$dokka.location:com.aac.parser.vag.model/Price/Price/#kotlin.String#com.aac.parser.vag.model.Preis/PointingToDeclaration/vag/com.aac.parser.vag.model/-price/-price.html
+$dokka.location:com.aac.parser.vag.model/Price/currency/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-price/currency.html
+$dokka.location:com.aac.parser.vag.model/Price/preis/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-price/preis.html
+$dokka.location:com.aac.parser.vag.model/Regeln///PointingToDeclaration/vag/com.aac.parser.vag.model/-regeln/index.html
+$dokka.location:com.aac.parser.vag.model/Regeln/Regeln/#kotlin.collections.List[kotlin.String]?/PointingToDeclaration/vag/com.aac.parser.vag.model/-regeln/-regeln.html
+$dokka.location:com.aac.parser.vag.model/Regeln/paket/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-regeln/paket.html
+$dokka.location:com.aac.parser.vag////PointingToDeclaration/vag/com.aac.parser.vag/index.html
+$dokka.location:com.aac.parser.vag//startUp/#com.aac.parser.vag.client.Manufacture#kotlin.collections.MutableList[org.koin.core.module.Module]/PointingToDeclaration/vag/com.aac.parser.vag/start-up.html
+com.aac.parser.vag
+com.aac.parser.vag.aggregator
+com.aac.parser.vag.client
+com.aac.parser.vag.mapper
+com.aac.parser.vag.model
+

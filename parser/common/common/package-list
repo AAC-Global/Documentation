@@ -21,12 +21,16 @@ $dokka.location:com.aac.parser.common.exporter/AzureBlobExporter/AzureBlobExport
 $dokka.location:com.aac.parser.common.exporter/AzureBlobExporter/export/#kotlin.String#kotlin.collections.List[com.aac.parser.common.model.Car]/PointingToDeclaration/common/com.aac.parser.common.exporter/-azure-blob-exporter/export.html
 $dokka.location:com.aac.parser.common.exporter/Exporter///PointingToDeclaration/common/com.aac.parser.common.exporter/-exporter/index.html
 $dokka.location:com.aac.parser.common.exporter/Exporter/export/#kotlin.String#kotlin.collections.List[com.aac.parser.common.model.Car]/PointingToDeclaration/common/com.aac.parser.common.exporter/-exporter/export.html
-$dokka.location:com.aac.parser.common.extentions////PointingToDeclaration/common/com.aac.parser.common.extentions/index.html
-$dokka.location:com.aac.parser.common.extentions//AggregatorLogger/#/PointingToDeclaration/common/com.aac.parser.common.extentions/-aggregator-logger.html
-$dokka.location:com.aac.parser.common.extentions//ClientLogger/#/PointingToDeclaration/common/com.aac.parser.common.extentions/-client-logger.html
-$dokka.location:com.aac.parser.common.extentions//ExporterLogger/#/PointingToDeclaration/common/com.aac.parser.common.extentions/-exporter-logger.html
-$dokka.location:com.aac.parser.common.extentions//configureLogger/#/PointingToDeclaration/common/com.aac.parser.common.extentions/configure-logger.html
-$dokka.location:com.aac.parser.common.extentions//splitToMap/com.typesafe.config.Config#kotlin.String/PointingToDeclaration/common/com.aac.parser.common.extentions/split-to-map.html
+$dokka.location:com.aac.parser.common.extensions////PointingToDeclaration/common/com.aac.parser.common.extensions/index.html
+$dokka.location:com.aac.parser.common.extensions//AggregatorLogger/#/PointingToDeclaration/common/com.aac.parser.common.extensions/-aggregator-logger.html
+$dokka.location:com.aac.parser.common.extensions//ClientLogger/#/PointingToDeclaration/common/com.aac.parser.common.extensions/-client-logger.html
+$dokka.location:com.aac.parser.common.extensions//ExporterLogger/#/PointingToDeclaration/common/com.aac.parser.common.extensions/-exporter-logger.html
+$dokka.location:com.aac.parser.common.extensions//configureLogger/#/PointingToDeclaration/common/com.aac.parser.common.extensions/configure-logger.html
+$dokka.location:com.aac.parser.common.extensions//iso2countryCode/com.typesafe.config.Config#kotlin.String/PointingToDeclaration/common/com.aac.parser.common.extensions/iso2country-code.html
+$dokka.location:com.aac.parser.common.extensions//splitToMap/com.typesafe.config.Config#kotlin.String/PointingToDeclaration/common/com.aac.parser.common.extensions/split-to-map.html
+$dokka.location:com.aac.parser.common.extensions/IsoCodesConverter///PointingToDeclaration/common/com.aac.parser.common.extensions/-iso-codes-converter/index.html
+$dokka.location:com.aac.parser.common.extensions/IsoCodesConverter/iso3CodeToIso2Code/#kotlin.String/PointingToDeclaration/common/com.aac.parser.common.extensions/-iso-codes-converter/iso3-code-to-iso2-code.html
+$dokka.location:com.aac.parser.common.extensions/IsoCodesConverter/languageCode/#kotlin.String/PointingToDeclaration/common/com.aac.parser.common.extensions/-iso-codes-converter/language-code.html
 $dokka.location:com.aac.parser.common.model////PointingToDeclaration/common/com.aac.parser.common.model/index.html
 $dokka.location:com.aac.parser.common.model/Car///PointingToDeclaration/common/com.aac.parser.common.model/-car/index.html
 $dokka.location:com.aac.parser.common.model/Car/Car/#kotlin.String#kotlin.collections.List[com.aac.parser.common.model.Model]/PointingToDeclaration/common/com.aac.parser.common.model/-car/-car.html
@@ -67,6 +71,6 @@ com.aac.parser.common
 com.aac.parser.common.aggregator
 com.aac.parser.common.client
 com.aac.parser.common.exporter
-com.aac.parser.common.extentions
+com.aac.parser.common.extensions
 com.aac.parser.common.model
 

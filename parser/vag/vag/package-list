@@ -29,9 +29,10 @@ $dokka.location:com.aac.parser.vag.mapper/VagCanonicalMapper/VagCanonicalMapper/
 $dokka.location:com.aac.parser.vag.mapper/VagCanonicalMapper/mapToCanonical/#kotlin.collections.List[com.aac.parser.vag.model.Model]/PointingToDeclaration/vag/com.aac.parser.vag.mapper/-vag-canonical-mapper/map-to-canonical.html
 $dokka.location:com.aac.parser.vag.model////PointingToDeclaration/vag/com.aac.parser.vag.model/index.html
 $dokka.location:com.aac.parser.vag.model/Equipment///PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/index.html
-$dokka.location:com.aac.parser.vag.model/Equipment/Equipment/#kotlin.String#kotlin.String?#kotlin.Boolean#com.aac.parser.vag.model.Preis#com.aac.parser.vag.model.Regeln#kotlin.String/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/-equipment.html
+$dokka.location:com.aac.parser.vag.model/Equipment/Equipment/#kotlin.String#kotlin.String?#kotlin.collections.List[kotlin.String]?#kotlin.Boolean#com.aac.parser.vag.model.Preis#com.aac.parser.vag.model.Regeln#kotlin.String/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/-equipment.html
 $dokka.location:com.aac.parser.vag.model/Equipment/code/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/code.html
 $dokka.location:com.aac.parser.vag.model/Equipment/image/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/image.html
+$dokka.location:com.aac.parser.vag.model/Equipment/images/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/images.html
 $dokka.location:com.aac.parser.vag.model/Equipment/isPackage/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/is-package.html
 $dokka.location:com.aac.parser.vag.model/Equipment/preis/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/preis.html
 $dokka.location:com.aac.parser.vag.model/Equipment/regeln/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-equipment/regeln.html

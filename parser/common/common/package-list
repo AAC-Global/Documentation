@@ -25,7 +25,8 @@ $dokka.location:com.aac.parser.common.extensions////PointingToDeclaration/commo
 $dokka.location:com.aac.parser.common.extensions//AggregatorLogger/#/PointingToDeclaration/common/com.aac.parser.common.extensions/-aggregator-logger.html
 $dokka.location:com.aac.parser.common.extensions//ClientLogger/#/PointingToDeclaration/common/com.aac.parser.common.extensions/-client-logger.html
 $dokka.location:com.aac.parser.common.extensions//ExporterLogger/#/PointingToDeclaration/common/com.aac.parser.common.extensions/-exporter-logger.html
-$dokka.location:com.aac.parser.common.extensions//configureLogger/#/PointingToDeclaration/common/com.aac.parser.common.extensions/configure-logger.html
+$dokka.location:com.aac.parser.common.extensions//configureLogger/#com.typesafe.config.Config/PointingToDeclaration/common/com.aac.parser.common.extensions/configure-logger.html
+$dokka.location:com.aac.parser.common.extensions//getConfigOrDefault/com.typesafe.config.Config#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.Any]/PointingToDeclaration/common/com.aac.parser.common.extensions/get-config-or-default.html
 $dokka.location:com.aac.parser.common.extensions//iso2countryCode/com.typesafe.config.Config#kotlin.String/PointingToDeclaration/common/com.aac.parser.common.extensions/iso2country-code.html
 $dokka.location:com.aac.parser.common.extensions//splitToMap/com.typesafe.config.Config#kotlin.String/PointingToDeclaration/common/com.aac.parser.common.extensions/split-to-map.html
 $dokka.location:com.aac.parser.common.extensions/IsoCodesConverter///PointingToDeclaration/common/com.aac.parser.common.extensions/-iso-codes-converter/index.html

@@ -13,8 +13,10 @@ $dokka.location:com.aac.parser.common.client/ParserClient.Companion/logger/#/Poi
 $dokka.location:com.aac.parser.common.client/ParserClient///PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/index.html
 $dokka.location:com.aac.parser.common.client/ParserClient/ParserClient/#/PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/-parser-client.html
 $dokka.location:com.aac.parser.common.client/ParserClient/client/#/PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/client.html
+$dokka.location:com.aac.parser.common.client/ParserClient/configureRetryPolicy/#io.ktor.client.plugins.HttpRequestRetry.Configuration/PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/configure-retry-policy.html
 $dokka.location:com.aac.parser.common.client/ParserClient/setupClient/io.ktor.client.HttpClientConfig[io.ktor.client.engine.cio.CIOEngineConfig]#/PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/setup-client.html
 $dokka.location:com.aac.parser.common.client/ParserClient/setupGson/com.google.gson.GsonBuilder#/PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/setup-gson.html
+$dokka.location:com.aac.parser.common.client/ParserClient/setupRetryPolicy/io.ktor.client.plugins.HttpRequestRetry.Configuration#/PointingToDeclaration/common/com.aac.parser.common.client/-parser-client/setup-retry-policy.html
 $dokka.location:com.aac.parser.common.exporter////PointingToDeclaration/common/com.aac.parser.common.exporter/index.html
 $dokka.location:com.aac.parser.common.exporter/AzureBlobExporter///PointingToDeclaration/common/com.aac.parser.common.exporter/-azure-blob-exporter/index.html
 $dokka.location:com.aac.parser.common.exporter/AzureBlobExporter/AzureBlobExporter/#/PointingToDeclaration/common/com.aac.parser.common.exporter/-azure-blob-exporter/-azure-blob-exporter.html

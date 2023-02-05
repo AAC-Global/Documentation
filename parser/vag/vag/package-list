@@ -4,6 +4,7 @@ $dokka.location:com.aac.parser.vag.aggregator////PointingToDeclaration/vag/com.
 $dokka.location:com.aac.parser.vag.aggregator/VagAggregator///PointingToDeclaration/vag/com.aac.parser.vag.aggregator/-vag-aggregator/index.html
 $dokka.location:com.aac.parser.vag.aggregator/VagAggregator/VagAggregator/#/PointingToDeclaration/vag/com.aac.parser.vag.aggregator/-vag-aggregator/-vag-aggregator.html
 $dokka.location:com.aac.parser.vag.aggregator/VagAggregator/aggregate/#/PointingToDeclaration/vag/com.aac.parser.vag.aggregator/-vag-aggregator/aggregate.html
+$dokka.location:com.aac.parser.vag.aggregator/VagAggregator/options/#/PointingToDeclaration/vag/com.aac.parser.vag.aggregator/-vag-aggregator/options.html
 $dokka.location:com.aac.parser.vag.client////PointingToDeclaration/vag/com.aac.parser.vag.client/index.html
 $dokka.location:com.aac.parser.vag.client/Client///PointingToDeclaration/vag/com.aac.parser.vag.client/-client/index.html
 $dokka.location:com.aac.parser.vag.client/Client/getAllCars/#kotlin.String/PointingToDeclaration/vag/com.aac.parser.vag.client/-client/get-all-cars.html
@@ -72,7 +73,7 @@ $dokka.location:com.aac.parser.vag.model/Regeln///PointingToDeclaration/vag/com
 $dokka.location:com.aac.parser.vag.model/Regeln/Regeln/#kotlin.collections.List[kotlin.String]?/PointingToDeclaration/vag/com.aac.parser.vag.model/-regeln/-regeln.html
 $dokka.location:com.aac.parser.vag.model/Regeln/paket/#/PointingToDeclaration/vag/com.aac.parser.vag.model/-regeln/paket.html
 $dokka.location:com.aac.parser.vag////PointingToDeclaration/vag/com.aac.parser.vag/index.html
-$dokka.location:com.aac.parser.vag//startUp/#com.aac.parser.vag.client.Manufacture#kotlin.collections.MutableList[org.koin.core.module.Module]/PointingToDeclaration/vag/com.aac.parser.vag/start-up.html
+$dokka.location:com.aac.parser.vag//startUp/#com.aac.parser.vag.client.Manufacture#kotlin.Array[org.koin.core.module.Module]/PointingToDeclaration/vag/com.aac.parser.vag/start-up.html
 com.aac.parser.vag
 com.aac.parser.vag.aggregator
 com.aac.parser.vag.client

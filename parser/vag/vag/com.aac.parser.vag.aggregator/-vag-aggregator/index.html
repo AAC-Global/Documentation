@@ -40,7 +40,7 @@
             </a>
     </div>
     <div>
-0.1.2    </div>
+0.2.0-alpha.19    </div>
     <div class="pull-right d-flex">
         <button id="theme-toggle-button"><span id="theme-toggle"></span></button>
         <div id="searchBar"></div>
@@ -55,10 +55,10 @@
   <div class="breadcrumbs"><a href="../../../index.html">vag</a><span class="delimiter">/</span><a href="../index.html">com.aac.parser.vag.aggregator</a><span class="delimiter">/</span><span class="current">VagAggregator</span></div>
   <div class="cover ">
     <h1 class="cover"><span>Vag</span><wbr></wbr><span><span>Aggregator</span></span></h1>
-    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">class </span><a href="index.html">VagAggregator</a> : <span data-unresolved-link="com.aac.parser.common.aggregator/ParserAggregator///PointingToDeclaration/">ParserAggregator</span>, <span data-unresolved-link="org.koin.core.component/KoinComponent///PointingToDeclaration/">KoinComponent</span></div><p class="paragraph">Implementation of Vag Aggregator.</p><p class="paragraph">Inherits <span data-unresolved-link="com.aac.parser.common.aggregator/ParserAggregator///PointingToDeclaration/">ParserAggregator</span></p><p class="paragraph">Expects next configuration:</p><div class="sample-container"><pre><code class="block lang-json" theme="idea">aggregator {<br>  country = ${?AGGR_COUNTRY}<br>}</code></pre><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">class </span><a href="index.html">VagAggregator</a> : <span data-unresolved-link="com.aac.parser.common.aggregator/CountryAggregator///PointingToDeclaration/">CountryAggregator</span><span class="token operator">&lt;</span><span class="token keyword"></span><span data-unresolved-link="com.aac.parser.common.aggregator/AggregatorOptions///PointingToDeclaration/">AggregatorOptions</span><span class="token operator">&gt; </span>, <span data-unresolved-link="org.koin.core.component/KoinComponent///PointingToDeclaration/">KoinComponent</span></div><p class="paragraph">Implementation of Vag Aggregator.</p><p class="paragraph">Inherits <span data-unresolved-link="com.aac.parser.common.aggregator/ParserAggregator///PointingToDeclaration/">ParserAggregator</span></p><p class="paragraph">Expects next configuration:</p><div class="sample-container"><pre><code class="block lang-json" theme="idea">aggregator {<br>  country = ${?AGGR_COUNTRY}<br>}</code></pre><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
   </div>
   <div class="tabbedcontent">
-    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="Constructors">Constructors</button><button class="section-tab" data-togglable="Functions">Functions</button></div>
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="Constructors">Constructors</button><button class="section-tab" data-togglable="Functions">Functions</button><button class="section-tab" data-togglable="Properties">Properties</button></div>
     <div class="tabs-section-body">
       <h2 class="tabbedcontent">Constructors</h2>
       <div class="table" data-togglable="Constructors"><a data-name="1558924511%2FConstructors%2F769193423" anchor-label="VagAggregator" id="1558924511%2FConstructors%2F769193423" data-filterable-set=":dokkaHtml/main"></a>
@@ -104,6 +104,23 @@
             <div>
               <div class="title">
                 <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword"></span><span class="token keyword">fun </span><a href="index.html#894441567%2FFunctions%2F769193423"><span class="token function">getKoin</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><span data-unresolved-link="org.koin.core/Koin///PointingToDeclaration/">Koin</span></div></div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h2 class="">Properties</h2>
+      <div class="table" data-togglable="Properties"><a data-name="1583238534%2FProperties%2F769193423" anchor-label="options" id="1583238534%2FProperties%2F769193423" data-filterable-set=":dokkaHtml/main"></a>
+        <div class="table-row" data-filterable-current=":dokkaHtml/main" data-filterable-set=":dokkaHtml/main">
+          <div class="main-subrow keyValue ">
+            <div class=""><span class="inline-flex">
+                <div><a href="options.html"><span><span>options</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1583238534%2FProperties%2F769193423"></span>
+                  <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                </span></span></div>
+            <div>
+              <div class="title">
+                <div class="platform-hinted " data-platform-hinted="data-platform-hinted" data-togglable="Properties"><div class="content sourceset-dependent-content" data-active="" data-togglable=":dokkaHtml/main"><a data-name="1583238534%2FProperties%2F769193423" anchor-label="options" id="1583238534%2FProperties%2F769193423" data-filterable-set=":dokkaHtml/main"></a><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">val </span><a href="options.html">options</a><span class="token operator">: </span><span data-unresolved-link="com.aac.parser.common.aggregator/AggregatorOptions///PointingToDeclaration/">AggregatorOptions</span></div></div></div>
               </div>
             </div>
           </div>

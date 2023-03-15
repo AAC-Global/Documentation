@@ -73,6 +73,35 @@ $dokka.location:com.aac.parser.common.extensions//splitToMap/com.typesafe.config
 $dokka.location:com.aac.parser.common.extensions/IsoCodesConverter///PointingToDeclaration/common/com.aac.parser.common.extensions/-iso-codes-converter/index.html
 $dokka.location:com.aac.parser.common.extensions/IsoCodesConverter/iso3CodeToIso2Code/#kotlin.String/PointingToDeclaration/common/com.aac.parser.common.extensions/-iso-codes-converter/iso3-code-to-iso2-code.html
 $dokka.location:com.aac.parser.common.extensions/IsoCodesConverter/languageCode/#kotlin.String/PointingToDeclaration/common/com.aac.parser.common.extensions/-iso-codes-converter/language-code.html
+$dokka.location:com.aac.parser.common.model.base////PointingToDeclaration/common/com.aac.parser.common.model.base/index.html
+$dokka.location:com.aac.parser.common.model.base/BaseCar///PointingToDeclaration/common/com.aac.parser.common.model.base/-base-car/index.html
+$dokka.location:com.aac.parser.common.model.base/BaseCar/BaseCar/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-car/-base-car.html
+$dokka.location:com.aac.parser.common.model.base/BaseCar/code/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-car/code.html
+$dokka.location:com.aac.parser.common.model.base/BaseCar/models/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-car/models.html
+$dokka.location:com.aac.parser.common.model.base/BaseConfiguration///PointingToDeclaration/common/com.aac.parser.common.model.base/-base-configuration/index.html
+$dokka.location:com.aac.parser.common.model.base/BaseConfiguration/BaseConfiguration/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-configuration/-base-configuration.html
+$dokka.location:com.aac.parser.common.model.base/BaseConfiguration/allOptions/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-configuration/all-options.html
+$dokka.location:com.aac.parser.common.model.base/BaseConfiguration/imageUrl/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-configuration/image-url.html
+$dokka.location:com.aac.parser.common.model.base/BaseConfiguration/includeOptions/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-configuration/include-options.html
+$dokka.location:com.aac.parser.common.model.base/BaseConfiguration/price/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-configuration/price.html
+$dokka.location:com.aac.parser.common.model.base/BaseModel///PointingToDeclaration/common/com.aac.parser.common.model.base/-base-model/index.html
+$dokka.location:com.aac.parser.common.model.base/BaseModel/BaseModel/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-model/-base-model.html
+$dokka.location:com.aac.parser.common.model.base/BaseModel/code/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-model/code.html
+$dokka.location:com.aac.parser.common.model.base/BaseModel/configurations/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-model/configurations.html
+$dokka.location:com.aac.parser.common.model.base/BaseModel/description/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-model/description.html
+$dokka.location:com.aac.parser.common.model.base/BaseModel/imageUrl/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-model/image-url.html
+$dokka.location:com.aac.parser.common.model.base/BaseModel/name/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-model/name.html
+$dokka.location:com.aac.parser.common.model.base/BaseOption///PointingToDeclaration/common/com.aac.parser.common.model.base/-base-option/index.html
+$dokka.location:com.aac.parser.common.model.base/BaseOption/BaseOption/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-option/-base-option.html
+$dokka.location:com.aac.parser.common.model.base/BaseOption/code/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-option/code.html
+$dokka.location:com.aac.parser.common.model.base/BaseOption/description/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-option/description.html
+$dokka.location:com.aac.parser.common.model.base/BaseOption/imageUrl/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-option/image-url.html
+$dokka.location:com.aac.parser.common.model.base/BaseOption/includedOptionCombinations/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-option/included-option-combinations.html
+$dokka.location:com.aac.parser.common.model.base/BaseOption/packagesPrices/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-option/packages-prices.html
+$dokka.location:com.aac.parser.common.model.base/BaseOption/relations/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-option/relations.html
+$dokka.location:com.aac.parser.common.model.base/BaseOption/separatePrice/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-option/separate-price.html
+$dokka.location:com.aac.parser.common.model.base/BaseOption/title/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-option/title.html
+$dokka.location:com.aac.parser.common.model.base/BaseOption/type/#/PointingToDeclaration/common/com.aac.parser.common.model.base/-base-option/type.html
 $dokka.location:com.aac.parser.common.model////PointingToDeclaration/common/com.aac.parser.common.model/index.html
 $dokka.location:com.aac.parser.common.model/Car///PointingToDeclaration/common/com.aac.parser.common.model/-car/index.html
 $dokka.location:com.aac.parser.common.model/Car/Car/#kotlin.String#kotlin.collections.List[com.aac.parser.common.model.Model]/PointingToDeclaration/common/com.aac.parser.common.model/-car/-car.html
@@ -130,4 +159,5 @@ com.aac.parser.common.extensions
 com.aac.parser.common.extensions.logger
 com.aac.parser.common.extensions.options
 com.aac.parser.common.model
+com.aac.parser.common.model.base
 
